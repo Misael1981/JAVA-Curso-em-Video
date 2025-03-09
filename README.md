@@ -12,6 +12,8 @@
 
 - ### [A Revolução Java: Uma Jornada do Ábaco ao "Escreva Uma Vez, Execute em Qualquer Lugar"](./Material-Estudo/Introducao/historia-java.md)
 
+- ### [Como Funciona o Java](./Material-Estudo/Como-Funciona-Java/comoFuncionaJava.md)
+
 <h2> 📞 Contato</h2>
 <div> 
   <a href="https://instagram.com/misaelvborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
